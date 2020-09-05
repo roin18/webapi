@@ -16,8 +16,8 @@ namespace webapi.Controllers
         {
             dtset = new List<Course>()
             {
-                new Course {Id=1,Name="AZ-104", Description="Microsoft Azure Administrator", Rating=4.5},
-                new Course {Id=2,Name="AZ-204", Description="Microsoft Azure Developer", Rating=4.6},
+                new Course {Id=1,Name="AZ-104", Description="Microsoft Roin Administrator", Rating=4.5},
+                new Course {Id=2,Name="AZ-204", Description="Microsoft test Developer", Rating=4.6},
                 new Course {Id=3,Name="AZ-303", Description="Microsoft Azure Architect", Rating=4.7}
             };
 
